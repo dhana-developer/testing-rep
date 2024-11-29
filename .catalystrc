@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "27014000000055104",
+      "name": "sample-project",
+      "domain": {
+        "id": "10092324773",
+        "name": "sample-project-860587874.development"
+      },
+      "timezone": "America/Toronto",
+      "env": [
+        {
+          "idx": 1,
+          "id": "860587874",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
